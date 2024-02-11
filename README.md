@@ -131,6 +131,8 @@ export MAGISKTMP="$(magisk --path)"
 ./overlayfs_system "$WRITEABLE"
 ```
 if all fails simply fork yourself then create a release download the release then take all files in release and compress into a zip named FS_WR. then flash through magisk module page. done! #Moongetsu3
+or even easier gonto my page Moongetsu3 and downlaod the MoonFS.zip and magisk flash that,
+
 ## Source code
 
 - <http://github.com/HuskyDG/Magisk_OverlayFS>
