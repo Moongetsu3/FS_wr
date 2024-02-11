@@ -130,7 +130,7 @@ export MAGISKTMP="$(magisk --path)"
 # - Load overlayfs
 ./overlayfs_system "$WRITEABLE"
 ```
-
+if all fails simply fork yourself then create a release download the release then take all files in release and compress into a zip named FS_WR. then flash through magisk module page. done! #Moongetsu3
 ## Source code
 
 - <http://github.com/HuskyDG/Magisk_OverlayFS>
